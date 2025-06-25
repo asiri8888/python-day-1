@@ -33,3 +33,5 @@ print(f"list converted to set (remove dupolicates): {unique_elements_set}")
 
 # convet set back to list
 # the order of elements might not preserved form the original list
+unique_list = list(unique_elements_set)
+print(f"list after removing duplicates and converting back : {unique_list}")
