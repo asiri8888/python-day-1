@@ -42,4 +42,4 @@ if student_scores: # ensure the dictionary is not empty
     print(f"-----student with highest score---")
     print(f"{highest_scorer_name}: {highest_score}\n")
 else:
-    print("The dictionary is empty. cannot find the highest score.\n")
+    print("The dictionary is empty. can-not find the highest score.\n")
